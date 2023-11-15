@@ -1,6 +1,7 @@
 # A PHP library for generating EAN 8/13 barcode
 
 ### Usage
+* 商品条形码，69码，生成条形码 barcode by php
 * Generate image url like below
 ```php
 $url="barcodeEAN/EAN.php?barNumber=00123457&magHeight=1&magWidth=1&dpi=100&showNumber=1
